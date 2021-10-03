@@ -1,0 +1,321 @@
+product_id,order_dow,order_hour_of_day,product_name,count
+343,6,18,Organic Whole Peeled Baby Carrots,1
+3219,6,18,Himalania Fine Pink Salt Glass Jar,1
+7700,6,18,Lavender Aloe Liquid Soap,1
+22031,6,18,Zucchini Noodles,1
+25997,6,18,Doctor Formulated Probiotics Once Daily Women's 50 Billion Guaranteed Vegetarian Capsules,1
+29328,6,18,Organic Sweet Mini Peppers,1
+36216,6,18,Lime Italian Sparkling Mineral Water,1
+40723,6,18,Organic Cripps Pink Apples,1
+47546,6,18,Chocolate Coconut Milk Beverage,1
+5134,6,14,Organic Thompson Seedless Raisins,1
+17948,6,14,Frozen Organic Wild Blueberries,1
+21137,6,14,Organic Strawberries,1
+21903,6,14,Organic Baby Spinach,1
+28199,6,14,"Clementines, Bag",1
+30406,6,14,Butternut Squash,1
+36198,6,14,Organic Unsweetened Original Rice Drink,1
+36772,6,14,Bunny Pasta with Yummy Cheese Macaroni & Cheese,1
+41950,6,14,Organic Tomato Cluster,1
+43014,6,14,Sliced Baby Bella Mushrooms,1
+2826,6,12,Blue Corn Chip Bowls,1
+27729,6,12,Cold-Pressed Organic Orange,1
+39013,6,12,Smoked Fresh Turkey Kielbasa,1
+2707,6,11,Complete™ ActionPacs™ Fresh Scent Dishwasher Detergent,1
+7350,6,11,Natural Lime Flavor Sparkling Mineral Water,1
+35469,6,11,Enchilada Black Bean Vegetable,1
+36606,6,11,Sprouted Multi-Grain Bread,1
+651,6,0,Organic Salted Butter,1
+1529,6,0,"Parsley, Italian (Flat), New England Grown",1
+2078,6,0,Unsalted Pure Irish Butter,1
+6141,6,0,Low Sodium Beef Broth,1
+6473,6,0,Bag of Lemons,1
+9839,6,0,Organic Broccoli,1
+14992,6,0,Green Beans,1
+16349,6,0,Organic Yams,1
+17794,6,0,Carrots,1
+20920,6,0,Sage,1
+260,5,20,Cantaloupe,1
+1529,5,20,"Parsley, Italian (Flat), New England Grown",1
+9339,5,20,Organic Chicken & Apple Sausage,1
+9871,5,20,Beef Loin New York Strip Steak,1
+13829,5,20,Mild Salsa,1
+16185,5,20,Sharp Cheddar Cheese,1
+16797,5,20,Strawberries,1
+17828,5,20,Organic Spinach & Feta Dinner Sausage,1
+19019,5,20,Uncured Slow Cooked Ham,1
+20632,5,20,Mache Rosettes French Salad Mix,1
+21903,5,18,Organic Baby Spinach,1
+27521,5,18,Organic Lacinato (Dinosaur) Kale,1
+38293,5,18,Ground Turkey Breast,1
+48679,5,18,Organic Garnet Sweet Potato (Yam),1
+1529,5,15,"Parsley, Italian (Flat), New England Grown",1
+5646,5,15,Organic Turkey Bacon,1
+5818,5,15,White Onion,1
+7632,5,15,Old Style Whole Grain Dijon Mustard,1
+7746,5,15,Oregano,1
+8988,5,15,Organic Garlic Powder,1
+9339,5,15,Organic Chicken & Apple Sausage,1
+11782,5,15,Bing Cherries,1
+13198,5,15,85% Lean Ground Beef,1
+13212,5,15,Ground Black Pepper,1
+3518,5,14,Dusters Cleaner Refills Unscented,1
+4210,5,14,Whole Milk,1
+4235,5,14,Ready to Bake Sugar Cookie Dough,1
+15359,5,14,All Purpose Flour,1
+31268,5,14,Sandwich Bags,1
+39063,5,14,Frozen White Ready Dough,1
+43719,5,14,Large Grade A - CA,1
+46572,5,14,Sweet Rolls,1
+47141,5,14,Cola,1
+48871,5,14,Natural Tomato Paste,1
+21573,5,13,Roasted Pine Nut Hummus,1
+22199,5,13,Extra-Dry Cava,1
+25146,5,13,Original Orange Juice,1
+25623,5,13,Real Guacamole,1
+26576,5,13,Yellow Corn Tortilla Chips,1
+481,5,12,Black Peppercorns,1
+1559,5,12,Cherry Pomegranate Greek Yogurt,1
+2732,5,12,Gluten Free Pretzel Sticks,1
+3243,5,12,Red Onions,1
+3634,5,12,Krinkle Cut Classic Barbecue Potato Chips,1
+5404,5,12,Dark Red Kidney Beans Reduced Sodium,1
+6489,5,12,Backyard Barbeque Potato Chips,1
+8467,5,12,Cinnamon Raisin Bread,1
+8834,5,12,Raspberry Lime Sparkling Seltzer Water,1
+10132,5,12,Organic American Cheese Singles,1
+2078,5,0,Unsalted Pure Irish Butter,1
+4799,5,0,Shredded Parmesan,1
+8193,5,0,Russet Potato,1
+10644,5,0,Italian Extra Virgin Olive Oil,1
+15143,5,0,Blueberry Pint,1
+15937,5,0,Shallot,1
+17794,5,0,Carrots,1
+18479,5,0,Organic Low Sodium Vegetable Broth,1
+18531,5,0,Organic Heavy Whipping Cream,1
+23165,5,0,Organic Leek,1
+10644,4,16,Italian Extra Virgin Olive Oil,1
+11068,4,16,Medium Cheddar Cheese Block,1
+20323,4,16,Strained Tomatoes,1
+21903,4,16,Organic Baby Spinach,1
+38293,4,16,Ground Turkey Breast,1
+40992,4,16,Chopped Tomatoes,1
+45007,4,16,Organic Zucchini,1
+1200,4,15,Vegetable Classics Vegetable Soup,1
+3957,4,15,100% Raw Coconut Water,1
+11865,4,15,Light & Lean Spaghetti Italiano with Meatless Meatballs,1
+17769,4,15,Diet Caffeine Free Naturally Flavored Lemon Lime Soda,1
+19057,4,15,Organic Large Extra Fancy Fuji Apple,1
+35469,4,15,Enchilada Black Bean Vegetable,1
+37646,4,15,Organic Gala Apples,1
+43704,4,15,Low Carb Whole Wheat Tortillas,1
+4086,4,14,Mint,1
+4562,4,14,English Seedless Cucumber,1
+14678,4,14,Organic Frozen Peas,1
+16349,4,14,Organic Yams,1
+19514,4,14,Reclosable Sandwich Bags,1
+25146,4,14,Original Orange Juice,1
+27845,4,14,Organic Whole Milk,1
+31717,4,14,Organic Cilantro,1
+33731,4,14,Grated Parmesan,1
+34310,4,14,Organic Goddess Dressing,1
+7160,4,11,Clear Cups,1
+42329,4,11,Private Selection Pinot Noir,1
+3957,4,7,100% Raw Coconut Water,1
+26751,4,7,Organic Tomato Basil Sauce,1
+4920,3,19,Seedless Red Grapes,1
+5450,3,19,Small Hass Avocado,1
+5769,3,19,Organic Chicken Stock,1
+11068,3,19,Medium Cheddar Cheese Block,1
+13083,3,19,Lowfat Small Curd Cottage Cheese,1
+13629,3,19,Organic Snipped Green Beans,1
+16797,3,19,Strawberries,1
+17794,3,19,Carrots,1
+18656,3,19,Organic Red Potato,1
+19678,3,19,Organic Russet Potato,1
+11777,3,18,Red Raspberries,1
+20754,3,18,Mediterranean Mint Gelato,1
+24231,3,18,Tahitian Vanilla Bean Gelato,1
+26604,3,18,Organic Blackberries,1
+40706,3,18,Organic Grape Tomatoes,1
+6184,3,16,Clementines,1
+9387,3,16,Granny Smith Apples,1
+13575,3,16,Apples,1
+22362,3,16,Original Rice Krispies Treats,1
+260,3,15,Cantaloupe,1
+1529,3,15,"Parsley, Italian (Flat), New England Grown",1
+9339,3,15,Organic Chicken & Apple Sausage,1
+9871,3,15,Beef Loin New York Strip Steak,1
+13829,3,15,Mild Salsa,1
+16185,3,15,Sharp Cheddar Cheese,1
+16797,3,15,Strawberries,1
+17828,3,15,Organic Spinach & Feta Dinner Sausage,1
+19019,3,15,Uncured Slow Cooked Ham,1
+20632,3,15,Mache Rosettes French Salad Mix,1
+8518,3,12,Organic Red Onion,1
+11777,3,12,Red Raspberries,1
+15349,3,12,Organic Raw Agave Nectar,1
+21413,3,12,Organic Soba,1
+22475,3,12,Jicama,1
+24535,3,12,Plain Whole Milk Yogurt,1
+26604,3,12,Organic Blackberries,1
+28289,3,12,Organic Shredded Carrots,1
+31717,3,12,Organic Cilantro,1
+43693,3,12,Whole Vitamin D Milk,1
+2138,3,11,Whole Bay Leaves,1
+3919,3,11,Hearty Grains 100% Whole Wheat English Muffins,1
+8524,3,11,Everyday Napkins,1
+13544,3,11,3 Color Deli Coleslaw,1
+22021,3,11,Low Fat Key Lime Blended Greek Yogurt,1
+27325,3,11,Alpine Spring Water,1
+33819,3,11,Original French Vanilla Yogurt,1
+38241,3,11,Low-Fat Mango on the Bottom Greek Yogurt,1
+47504,3,11,Blueberry Breakfast Biscuits,1
+48205,3,11,Spinach,1
+8424,2,18,Broccoli Crown,1
+25659,2,18,Organic Coconut Milk,1
+49401,2,18,"Chicken Base, Organic",1
+343,2,16,Organic Whole Peeled Baby Carrots,1
+10807,2,16,Wild Arugula Salad,1
+21019,2,16,Roasted Red Pepper Hummus,1
+21137,2,16,Organic Strawberries,1
+22031,2,16,Zucchini Noodles,1
+24830,2,16,Organic Romaine,1
+26209,2,16,Limes,1
+34126,2,16,Organic Italian Parsley Bunch,1
+36216,2,16,Lime Italian Sparkling Mineral Water,1
+38450,2,16,Turmeric Strength for Whole Body,1
+24852,2,14,Banana,2
+27104,2,14,Fresh Cauliflower,2
+651,2,14,Organic Salted Butter,1
+4086,2,14,Mint,1
+5134,2,14,Organic Thompson Seedless Raisins,1
+7948,2,14,Organic Unsalted Butter,1
+16797,2,14,Strawberries,1
+21137,2,14,Organic Strawberries,1
+21903,2,14,Organic Baby Spinach,1
+31717,2,14,Organic Cilantro,1
+6184,2,11,Clementines,2
+9387,2,11,Granny Smith Apples,2
+13575,2,11,Apples,2
+13914,2,11,Cheez-It Baked Snack Crackers,2
+22362,2,11,Original Rice Krispies Treats,2
+41400,2,11,Crunchy Oats 'n Honey Granola Bars,2
+46061,2,11,Popcorn,2
+651,2,8,Organic Salted Butter,1
+4086,2,8,Mint,1
+5134,2,8,Organic Thompson Seedless Raisins,1
+10017,2,8,Tilapia Filet,1
+17794,2,8,Carrots,1
+21903,2,8,Organic Baby Spinach,1
+22247,2,8,Organic Chives,1
+24852,2,8,Banana,1
+30391,2,8,Organic Cucumber,1
+31772,2,8,Sprouted Grain Bread Cinnamon Raisin,1
+5134,1,20,Organic Thompson Seedless Raisins,1
+13780,1,20,Thyme,1
+17948,1,20,Frozen Organic Wild Blueberries,1
+21903,1,20,Organic Baby Spinach,1
+28985,1,20,Michigan Organic Kale,1
+33346,1,20,Dairy Free Coconut Almondmilk Blend,1
+35140,1,20,Organic Whole Cashews,1
+37107,1,20,Ground Cumin,1
+41950,1,20,Organic Tomato Cluster,1
+43014,1,20,Sliced Baby Bella Mushrooms,1
+23719,1,19,Chicken Tortilla Soup,1
+36216,1,19,Lime Italian Sparkling Mineral Water,1
+47546,1,19,Chocolate Coconut Milk Beverage,1
+3376,1,18,Organic Whole Kernel Sweet Corn No Salt Added,1
+5999,1,18,"Semi-Soft Cheese, Ripened",1
+8518,1,18,Organic Red Onion,1
+11777,1,18,Red Raspberries,1
+13988,1,18,Snow Peas,1
+16168,1,18,Large Organic Omega3 Brown Eggs,1
+21413,1,18,Organic Soba,1
+24535,1,18,Plain Whole Milk Yogurt,1
+26604,1,18,Organic Blackberries,1
+27344,1,18,Uncured Genoa Salami,1
+311,1,17,Naturals Savory Turkey Breakfast Sausage,1
+481,1,17,Black Peppercorns,1
+4957,1,17,Total 2% Lowfat Greek Strained Yogurt With Blueberry,1
+5002,1,17,Organic Iced Oatmeal Cookie ZBar,1
+5194,1,17,Organic Bunny Fruit Snacks Berry Patch,1
+6489,1,17,Backyard Barbeque Potato Chips,1
+7952,1,17,Chicken & Apple Breakfast Sausage,1
+8952,1,17,Multigrain Pancake & Waffle Mix,1
+11790,1,17,Natural Vanilla Marshmallows,1
+13351,1,17,Total 0% Peach Yogurt,1
+5134,1,13,Organic Thompson Seedless Raisins,1
+12069,1,13,Organic Campari Cocktail Tomatoes,1
+17794,1,13,Carrots,1
+21903,1,13,Organic Baby Spinach,1
+27336,1,13,Organic Rainbow Carrots,1
+28985,1,13,Michigan Organic Kale,1
+37687,1,13,Organic Spring Mix,1
+40706,1,13,Organic Grape Tomatoes,1
+41950,1,13,Organic Tomato Cluster,1
+44359,1,13,Organic Small Bunch Celery,1
+9387,1,10,Granny Smith Apples,1
+13575,1,10,Apples,1
+13914,1,10,Cheez-It Baked Snack Crackers,1
+46061,1,10,Popcorn,1
+2078,1,8,Unsalted Pure Irish Butter,1
+9839,1,8,Organic Broccoli,1
+11136,1,8,Organic Low Sodium Chicken Cooking Stock,1
+14992,1,8,Green Beans,1
+17794,1,8,Carrots,1
+18531,1,8,Organic Heavy Whipping Cream,1
+21903,1,8,Organic Baby Spinach,1
+23165,1,8,Organic Leek,1
+26882,1,8,Russet Potatoes,1
+28985,1,8,Michigan Organic Kale,1
+810,0,17,Organic Honey Mustard,1
+4461,0,17,Organic Raw Unfiltered Apple Cider Vinegar,1
+5876,0,17,Organic Lemon,1
+31717,0,17,Organic Cilantro,1
+36216,0,17,Lime Italian Sparkling Mineral Water,1
+6808,0,16,Organic Spinach & Cheese Tortellini,1
+8112,0,16,Almond Mozzarella Style Cheese Alternative,1
+10807,0,16,Wild Arugula Salad,1
+11777,0,16,Red Raspberries,1
+13870,0,16,Lightly Salted Baked Snap Pea Crisps,1
+13988,0,16,Snow Peas,1
+18761,0,16,Balsamic Vinegar Of Modena,1
+21616,0,16,Organic Baby Arugula,1
+24535,0,16,Plain Whole Milk Yogurt,1
+26604,0,16,Organic Blackberries,1
+2099,0,15,Natural Cane Turbinado Sugar,1
+3098,0,15,Lavender Dish Soap,1
+3957,0,15,100% Raw Coconut Water,1
+7054,0,15,Low Fat Plain Yogurt,1
+12204,0,15,Vegetable Medley,1
+15604,0,15,Fat Free Plain Yogurt,1
+21783,0,15,Coconut Milk Vanilla Mini Sandwiches,1
+49267,0,15,Vegetable Broth Low Sodium,1
+4957,0,14,Total 2% Lowfat Greek Strained Yogurt With Blueberry,1
+8834,0,14,Raspberry Lime Sparkling Seltzer Water,1
+14197,0,14,Tomato Paste,1
+15872,0,14,Celery Hearts,1
+17948,0,14,Frozen Organic Wild Blueberries,1
+18926,0,14,Fat Free Strawberry Yogurt,1
+21137,0,14,Organic Strawberries,1
+21405,0,14,"Organic Red Radish, Bunch",1
+21616,0,14,Organic Baby Arugula,1
+24341,0,14,Organic & Cold-Pressed Vegetable & Fruit Juice Vitality,1
+4605,0,11,Yellow Onions,1
+5134,0,11,Organic Thompson Seedless Raisins,1
+7054,0,11,Low Fat Plain Yogurt,1
+15604,0,11,Fat Free Plain Yogurt,1
+21137,0,11,Organic Strawberries,1
+35547,0,11,Organic Baby Kale,1
+38273,0,11,Marinara Pasta Sauce,1
+49248,0,11,Organic Farro,1
+3108,0,10,Original Lowfat Lemon Burst Yogurt,1
+3873,0,10,Mountain Spring Water,1
+3919,0,10,Hearty Grains 100% Whole Wheat English Muffins,1
+7883,0,10,Jumbo Cotton Balls,1
+23106,0,10,Pomegranate on the Bottom Non-Fat Greek Yogurt,1
+28199,0,10,"Clementines, Bag",1
+33819,0,10,Original French Vanilla Yogurt,1
+42372,0,10,Pineapple on the Bottom Greek Yogurt,1
+42959,0,10,Jet-Dry Original Rinse Aid,1
