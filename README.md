@@ -12,4 +12,4 @@ cluster of which, the user for whom we are predicting the smart bag, is part of.
 the predicted items will be more relevant to that particular user.
 
 
-for details refer documentation
+*For details refer to documentation.pdf*
